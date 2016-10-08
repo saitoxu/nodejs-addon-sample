@@ -1,2 +1,6 @@
-# nodejs-addon-sample
-Node.js Addon Sample - Factrorial Program
+# Node.js Addon Sample
+This addon calculates factorial with an argument.
+
+```js
+console.log(addon.factorial(5)); // 120
+```
